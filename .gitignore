@@ -3,4 +3,6 @@ node_modules
 tutorial/public/index.html
 tutorial/public/styles/dist/*
 tutorial/src/styles/dist/*
-.vscode
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
